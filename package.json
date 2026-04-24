@@ -1,0 +1,1 @@
+{"name": "liuchonghao-resume", "version": "1.0.0", "description": "刘崇豪 - 个人简历网站", "scripts": {"start": "npx serve ."}, "keywords": ["resume", "portfolio", "frontend"], "author": "刘崇豪"}
